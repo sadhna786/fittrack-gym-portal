@@ -1,5 +1,6 @@
 # FitTrack Gym Portal 🏋️‍♂️
 
+
 FitTrack Gym Portal is a modern fitness tracking application built with **React**, **TypeScript**, and **Supabase**. The platform provides an engaging, responsive dashboard to track physical and mental fitness metrics, visualize progress through charts, and manage schedules with an interactive calendar.
 
 ## 🚀 Features
